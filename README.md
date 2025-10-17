@@ -1,2 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmailhos&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+Hey there! 
 
+I'm Mathieu, an engineer passionate about building scalable, reliable distributed systems and data platforms.
+[Reach out to me on LinkedIn](https://linkedin.com/in/mathieumailhos)
